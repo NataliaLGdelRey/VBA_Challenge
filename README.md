@@ -2,13 +2,6 @@
 Module_2_Challenge_VBA
 
 title: "Module 2 Challenge"
----
-
-References
--------------------
-https://github.com/SyedFarman
-https://github.com/elsafig
-
 -----------------
 
 This repository contains:
@@ -17,8 +10,10 @@ This repository contains:
   Screenshots of the results
   
   
-  References:
-  
-  Ideas and parts of the code (such as parts of the cell formatting) from StackOverflow
-  
-  The file .xlsm was too big to upload to GitHub. Is it needed for the Assignment? I tried through GitLFS but I could not make it work either.
+References
+-------------------
+
+- https://github.com/SyedFarman
+- https://github.com/elsafig
+- Ideas and parts of the code (such as parts of the cell formatting) from StackOverflow
+ 
