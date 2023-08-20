@@ -1,6 +1,16 @@
 # VBA_Challenge
 Module_2_Challenge_VBA
 
+title: "Module 2 Challenge"
+---
+
+References
+-------------------
+https://github.com/SyedFarman
+https://github.com/elsafig
+
+-----------------
+
 This repository contains:
   Excel macro enabled
   Separate VBA script files
